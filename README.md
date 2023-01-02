@@ -9,6 +9,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**Spring**                        |                   |                        |                  |
 |**JUnit**                         |                   |                        |                  |
+|**Mockito**                       |                   |                        |                  |
 |**Maven**                         |                   |                        |                  |
 |**Gradle**                        |                   |                        |                  |
 

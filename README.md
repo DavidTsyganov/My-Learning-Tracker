@@ -8,7 +8,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |               Skill                                                              | 1<br>Know Basics  | 2<br>Can solve some tasks | 3<br>Can work with |
 |:--------------------------------------------------------------------------------:|:-----------------:|:-------------------------:|:------------------:|
 |[**Spring**](https://dts-dev.notion.site/Spring-460ab5bf84e94fc488be21542509b065) | ![done]           |                           |                    |
-|**Java EE**                                                                       | ![done]           | ![done]                   |                    |
+|**Java EE / Jakarta EE**                                                          | ![done]           | ![done]                   |                    |
 |**JUnit**                                                                         | ![done]           | ![done]                   |                    |
 |**Mockito**                                                                       |                   |                           |                    |
 |**Maven**                                                                         | ![done]           | ![done]                   |                    |
